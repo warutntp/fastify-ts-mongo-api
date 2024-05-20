@@ -14,8 +14,8 @@ This project is a Fastify API server built with TypeScript, designed to manage P
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/warutntp/fastify-ts-project.git
-    cd fastify-ts-project
+    git clone https://github.com/warutntp/fastify-ts-mongo-api.git
+    cd fastify-ts-mongo-api
     ```
 
 2. Install dependencies:
