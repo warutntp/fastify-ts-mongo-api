@@ -51,6 +51,7 @@ DELETE /products/:id: Delete a product by ID
 
 
 ## Project Structure
+
 /src
 ├── api
 │ ├── brand
