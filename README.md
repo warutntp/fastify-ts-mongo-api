@@ -7,7 +7,6 @@ This project is a Fastify API server built with TypeScript, designed to manage P
 - [Installation](#installation)
 - [Usage](#usage)
 - [API Endpoints](#api-endpoints)
-- [Project Structure](#project-structure)
 
 ## Installation
 
@@ -36,6 +35,7 @@ The server will run on http://localhost:3000.
 
 
 ## API Endpoints
+
 Brands
 GET /brands: Get all brands
 GET /brands/:id: Get a brand by ID
@@ -49,19 +49,3 @@ POST /products: Create a new product
 PUT /products/:id: Update a product by ID
 DELETE /products/:id: Delete a product by ID
 
-
-## Project Structure
-/src
-├── api
-│ ├── brand
-│ │ ├── controller.ts
-│ │ └── routes.ts
-│ └── product
-│ ├── controller.ts
-│ └── routes.ts
-├── models
-│ ├── brand.ts
-│ └── product.ts
-├── database.ts
-├── routes.ts
-└── server.ts
