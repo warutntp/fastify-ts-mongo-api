@@ -34,8 +34,8 @@ npm run start
 
 The server will run on http://localhost:3000.
 
-
 ## API Endpoints
+
 Brands
 GET /brands: Get all brands
 GET /brands/:id: Get a brand by ID
@@ -48,7 +48,6 @@ GET /products/:id: Get a product by ID
 POST /products: Create a new product
 PUT /products/:id: Update a product by ID
 DELETE /products/:id: Delete a product by ID
-
 
 ## Project Structure
 
